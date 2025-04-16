@@ -1,0 +1,95 @@
+<html>
+	<head>
+		<title>Discus Project</title>
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<script src="js/jquery-1.11.0.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/discus.js"></script>
+	</head>
+	<body oncontextmenu="return false;">
+		<div class="container">
+			<h1 class="text-center">Discus Project</h1>
+
+			<!-- Introduction to Discus -->
+			<div id="intro">
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<div class="col-sm-offset-3 col-sm-6">
+					<input type="text" class="form-control text-center" id="name" placeholder="Name">	
+				</div>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<div class="col-sm-offset-3 col-sm-6 text-center">
+					<button type="button" disabled="disabled" class="btn btn-lg btn-block btn-primary" id="start">Start</button>
+				</div>
+			</div>
+
+			<!-- Main content -->
+			<div id="content" hidden=hidden>
+				<div class="col-sm-12">
+					<div class="col-sm-10">
+						<div class="progress">
+	  						<div class="progress-bar" role="progressbar"></div>
+	  					</div>	
+					</div>
+  					<div class="col-sm-2"><span id="progress">1</span> / <span id="total">100</span></div>
+				</div>
+				<div class="col-sm-12">
+					<div class="col-sm-8">
+						<img src="" class="img-responsive" id="image0" alt="Image to assess">
+						<img src="" class="img-responsive" id="image1" alt="Image to assess">
+						<img src="" class="img-responsive" id="image2" alt="Image to assess">
+					</div>
+					<div class="col-sm-4">
+						<fieldset>
+							<legend>Rating</legend>
+							<div class="radio">
+								<label>
+									<input type="radio" class="response" name="response" value="1"> Definitely Healthy
+								</label>
+							</div>
+							<div class="radio">
+								<label>
+									<input type="radio" class="response" name="response" value="2"> Probably Healthy
+								</label>
+							</div>
+							<div class="radio">
+								<label>
+									<input type="radio" class="response" name="response" value="3"> Not Sure
+								</label>
+							</div>
+							<div class="radio">
+								<label>
+									<input type="radio" class="response" name="response" value="4"> Probably Damaged
+								</label>
+							</div>
+							<div class="radio">
+								<label>
+									<input type="radio" class="response" name="response" value="5"> Definitely Damaged
+								</label>
+							</div>
+						</fieldset>
+						<button type="button" disabled="disabled" id="next" class="btn btn-lg btn-block btn-primary">Next</button>
+					</div>
+				</div>
+			</div>
+
+			<!-- Results Screen -->
+			<form id="responses" method="POST" hidden=hidden></form>
+		</div>
+	</body>
+</html>
