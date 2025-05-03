@@ -1,0 +1,21 @@
+if0_38893778
+Website for Artes.infy.uk
+Goldmann1899
+
+http://artes.infy.uk/
+
+ftp.infinityfree.com
+Port: 21
+
+=============  3 May '25
+
+site loads but doesn't function
+
+Haven't managed to connect / transfrer files using filezilla
+tried to transfer files via cpanel manager -- not sure how successful. some images not transferred. Too big / too many?
+
+Next:	try to get space from IT Plymouth
+	Try again FileZilla / transfer files, etc. Can i get it to work?
+	Ask Martyn for help. 
+
+=============================
