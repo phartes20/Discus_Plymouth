@@ -19,3 +19,24 @@ Next:	try to get space from IT Plymouth
 	Ask Martyn for help. 
 
 =============================
+
+IONOS 12 May 25
+
+swei.uk
+
+sftp://access-5017825518.webspace-host.com
+username: a997590
+pw HansGoldmann1899!!
+
+Martyn helped: jQuery was missing!!
+
+works very well (filezilla) from Office
+
+2 directories  Discus  Discus_dbg  (debug)
+replaced code for php transfer with download (Deepseek ;)
+
+aside from minor niggles works well. 
+
+####################################
+
+Now onto ShinyIO
