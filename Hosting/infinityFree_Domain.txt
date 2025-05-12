@@ -13,13 +13,18 @@ site loads but doesn't function
 
 Haven't managed to connect / transfrer files using filezilla
 tried to transfer files via cpanel manager -- not sure how successful. some images not transferred. Too big / too many?
+Filezilla works fine from home -- doesn't work from office. Tried with VPN, also doesn't work. Harry Hocking opens support case. 
+
+works fine from home. Something blocked here? window loads but doesn't execute. 
+
 
 Next:	try to get space from IT Plymouth
 	Try again FileZilla / transfer files, etc. Can i get it to work?
-	Ask Martyn for help. 
+	Ask Martyn for help. (swing by w/c 12 May, all days exc Wednesday) 
 
 =============================
 
+<<<<<<< HEAD
 IONOS 12 May 25
 
 swei.uk
@@ -40,3 +45,10 @@ aside from minor niggles works well.
 ####################################
 
 Now onto ShinyIO
+=======
+https://web.cs.dal.ca/~artes/discusproject/
+
+In Chrome, CRTL+U opens window code, blanked out line! Next thing to try: fix this from home. 
+
+
+>>>>>>> b7bc84c48ed48fed9ad70836c9d6d061c1a19462
