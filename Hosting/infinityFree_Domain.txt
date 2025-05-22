@@ -52,3 +52,14 @@ In Chrome, CRTL+U opens window code, blanked out line! Next thing to try: fix th
 
 
 >>>>>>> b7bc84c48ed48fed9ad70836c9d6d061c1a19462
+
+#################################
+
+talked with Ionos about VPS server: 
+https://www.ionos.co.uk/help/server-cloud-infrastructure/erste-schritte-vps/vps-getting-started/
+packages are here: https://www.ionos.co.uk/servers/vps [30 day trials]
+
+
+
+
+
